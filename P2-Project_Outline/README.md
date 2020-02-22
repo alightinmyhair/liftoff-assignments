@@ -7,15 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The Grocery App will enable a user to create their own grocery lists or choose from a variety of grocery lists. Grocery lists will be categorized by food group and as a user shops and checks off their groceries, they can see a breakdown of the food they have purchased in a pie chart. Users will find this application easy to use and helpful in organizing the user's food needs. Additionally, the app will give the user valuable insights into the food groups the user purchases most and least. 
+The Grocery App will enable a user to add their own grocery lists or choose an item from the Grocery Library to their grocery list. Grocery items on grocery lists will be categorized into a food group and after a user has checked off grocery items from the grocery list, they can see a percentage breakdown of the food they have purchased in a pie chart. Users will find this application helpful in organizing the users' grocery items; and insights into the what food groups the user is purchasing the most of.
 ### Features
-1. Add grocery item: Users can add their own groceries items
-2. Search grocery lists: Users can choose from a variety of grocery items available within the app
-3. Group groceries: Users can see the items displayed in an organized list of food groups
-4. Grocery results: Users can see the results of their grocery lists in a pie chart
+1. Add grocery item: Users can input their own grocery items
+2. Grocery Library: Users can choose from default grocery items
+3. Grocery Classification: Users can see the items selected displayed in food groups
+4. Grocery results: Users can see the results of their grocery purchases after completion of a grocery visit
 ### Technologies
-Include Technologies here
+-Java
+-JavaScript
+-MySQL
+-Hibernate
+-Thymeleaf Templates
 ### What I'll Have to Learn
-Include what you will need to learn here
+While I have utilized the technologies above to some degree in past assignments in LC101, I will need to revisit JavaScript concepts, as I want my app to be very interactive that keeps the user feeling engaged when using the app.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/gowCE8K3/grocery-app
