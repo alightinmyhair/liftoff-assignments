@@ -7,16 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The Grocery App will enable a user to add their own grocery lists or choose an item from the Grocery Library to their grocery list. Grocery items on grocery lists will be categorized into a food group and after a user has checked off grocery items from the grocery list, they can see a percentage breakdown of the food they have purchased in a pie chart. Users will find this application helpful in organizing the users' grocery items; and insights into the what food groups the user is purchasing the most of.
+The Grocery App will seek to satisfy two things missing from grocery apps on the market today. This Grocery App will not only help classify grocery items into categories, giving a more organized structure when a user is grocery shopping, but it will provide insights into what food categories the user is purchasing the most and least of. 
+The app will enable users to add their own Grocery Category to classify the grocery items that they will be adding to their Grocery List. While the user can add their own Grocery Item they can also choose an item from the Grocery Library. Grocery items on Grocery Lists will need to be categorized into a food category and after a user has checked off grocery items from the Grocery List, they can see a percentage breakdown of the food they have purchased, displayed in a pie chart. Users will find this application helpful in organizing the users' grocery items;.
 ### Features
-1. Add grocery item: Users can input their own grocery items
-2. Grocery Library: Users can choose from default grocery items
-3. Grocery Classification: Users can see the items selected displayed in food groups
-4. Grocery results: Users can see the results of their grocery purchases after completion of a grocery visit
+1. Grocery HomePage: Login and New User buttons. After login, the page will reroute to a Grocery List
+2. Grocery Classification: Add Grocery Category button so user can start adding grocery food groups
+3. Grocery Item Management: Users can input their own grocery items
+4. Grocery Library: Users can choose from default grocery items
+5. Grocery Data: Users can see the results of their grocery purchases after completion of a grocery visit
 ### Technologies
 -Java
 -JavaScript
--MySQL
+-MongoDB
 -Hibernate
 -Thymeleaf Templates
 ### What I'll Have to Learn
