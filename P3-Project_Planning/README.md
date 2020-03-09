@@ -11,7 +11,8 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 https://rachellekuhl277556.invisionapp.com/freehand/Wireframe-Attempts-XEwUxGlcI?v=CpydI023X1%2FgeOjLYszhsA%3D%3D&linkshare=urlcopied
-+2 Pics in this repo
+
++2 Pics in this repo: https://github.com/alightinmyhair/liftoff-assignments/tree/master/P3-Project_Planning
 
 ### Project Tracker
 
